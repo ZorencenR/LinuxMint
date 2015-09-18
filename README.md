@@ -6,11 +6,14 @@
 
 3) Luego de abrir el archivo anterior reemplazarlo por el siguiente texto: 
 
+```
 [Icon Theme]
 Inherits=Mac_OSX_Aqua
+```
 
 4) Guardar y cerrar.
 
 5) Desde Ubuntu se puede utilizar Ubuntu-tweak-tool o Ubuntu-unity-tweak. Si es desde Linux Mint en las opciones de temas escoge el nombre del cursor que acaba de instalar.
 
 Listo!!!
+
