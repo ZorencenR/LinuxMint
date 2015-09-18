@@ -17,3 +17,4 @@ Inherits=Mac_OSX_Aqua
 
 Listo!!!
 
+![ScreenShot](https://raw.github.com/{ZorencenR}/{LinuxMint}/{master}/{MacOSX_Aqua.png})
